@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @krbergh
+- 👋 Hi, I’m Kristian Bergh.
 - 👀 I’m interested in KISS for HW engineers.
 - 🌱 I’m currently too old for learning, so I need everything written down.
 - 💞️ I’m looking to collaborate on making stuff work and HW testing.
